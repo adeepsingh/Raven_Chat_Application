@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "65970592360",
+    "firebase_url": "https://raven-17663.firebaseio.com",
+    "project_id": "raven-17663",
+    "storage_bucket": "raven-17663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65970592360:android:991e6a619e899106",
+        "android_client_info": {
+          "package_name": "com.ravenchat.amar0_000.raven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65970592360-7jaego8hfjrropf43v6n9h16i761qhi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravenchat.amar0_000.raven",
+            "certificate_hash": "aff4ba08aa171495e40fd7f6b94b558881034a18"
+          }
+        },
+        {
+          "client_id": "65970592360-vb3unq5kv0h9sgh8d93thbmmmlja8fv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravenchat.amar0_000.raven",
+            "certificate_hash": "2d87a3a77a2dc01f7a6469d6f4b5247d5a67ab53"
+          }
+        },
+        {
+          "client_id": "65970592360-84sirspsbd49nubl8eofqkml3nnbjgbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdZ_L2EC-l0d80ozvZ3Ki4L5erksRPBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65970592360-84sirspsbd49nubl8eofqkml3nnbjgbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
